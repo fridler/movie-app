@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ActorGalleryPage from './pages/ActorGallery/ActorGallery';
+import ActorGalleryPage from './pages/ActorGalleryPage/ActorGalleryPage';
 
 
 function App() {
