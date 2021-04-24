@@ -1,4 +1,6 @@
 .p-actorGallery{
-    display: flex;
-    justify-content: space-around;
+}
+
+.p-actorGallery input , select{
+    height: 40px;
 }

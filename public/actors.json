@@ -1,0 +1,23 @@
+[
+    {
+        "fname": "Bar",
+        "lname": "Refaeli",
+        "birthday": "11/11/1988",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5MjYwMzY5NV5BMl5BanBnXkFtZTcwOTM3MDAzNQ@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "IMBDLink": "...aaa"
+    },
+    {
+        "fname": "Brad",
+        "lname": "Pitt",
+        "birthday": "22/02/1988",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjE2MTQ2MV5BMl5BanBnXkFtZTcwMjE5MDY0Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "IMBDLink": "...bbb"
+    },
+    {
+        "fname": "Sendi",
+        "lname": "Bar",
+        "birthday": "03/03/1988",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmVhOTY4NjctZGQ0YS00MzQ4LWFmMGYtYTNiYjBmNzY4MmQ0XkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_UY317_CR33,0,214,317_AL_.jpg",
+        "IMBDLink": "...ccc"
+    }
+]
